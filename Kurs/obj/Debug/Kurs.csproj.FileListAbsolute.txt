@@ -30,3 +30,5 @@ C:\Users\Fiarr4ikDEV\Desktop\Kurs\Kurs\obj\Debug\Kurs.csproj.CoreCompileInputs.c
 C:\Users\Fiarr4ikDEV\Desktop\Kurs\Kurs\obj\Debug\Kurs.csproj.Up2Date
 C:\Users\Fiarr4ikDEV\Desktop\Kurs\Kurs\obj\Debug\Kurs.exe
 C:\Users\Fiarr4ikDEV\Desktop\Kurs\Kurs\obj\Debug\Kurs.pdb
+C:\Users\Fiarr4ikDEV\Desktop\Kurs\Kurs\obj\Debug\Kurs_Content.g.cs
+C:\Users\Fiarr4ikDEV\Desktop\Kurs\Kurs\obj\Debug\App.baml
